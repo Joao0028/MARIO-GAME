@@ -1,4 +1,4 @@
-# MARIO-GAME
+# MARIO GAME
 Jogo do Mario - Feito com HTML CSS e JAVASCRIPT - Não responsivo
 
 <h1>Como Jogar?</h1>
